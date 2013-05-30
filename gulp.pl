@@ -1,4 +1,4 @@
-#!/usr/bin/perl
+#!/usr/bin/env perl
 
 # Gulp! - Blind SQL Injection general purpose Exploiter
 # Coded by Stefano Angaran
