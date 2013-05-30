@@ -1,7 +1,7 @@
 #!/usr/bin/env perl
 
 # Gulp! - Blind SQL Injection general purpose Exploiter
-# Coded by Stefano Angaran
+# Hacked together by Stefano Angaran
 # PERL >= 5.8 Required
 
 # Tricks
@@ -56,7 +56,7 @@ $SIG{'KILL'} = \&kill_handler;
 print qq{
 #############################################
 #                  Gulp!                    #
-#         coded by Stefano Angaran          #
+#        a script from Stefano Angaran      #
 #############################################
 Version $version
 
@@ -374,7 +374,7 @@ sub make_request{
     if ($res->is_success) {
         # 200 Response Code
         my $content = $res->content;
-        #print $content;   # <--------------------- de-comment for more in-depth debugging
+        #print $content;   # <--------------------- un-comment for more in-depth debugging
         return $content;
     } elsif($res->is_redirect) {
         # 301/302 Response Code
