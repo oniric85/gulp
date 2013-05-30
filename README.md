@@ -78,3 +78,10 @@ For further help you can issue this command on your favourite shell and look at 
 ## Disclaimer
 
 Software is provided as is. You can use it as you wish, just be cool. You can also submit pull requests so we can make enhance Gulp!
+
+## Developers
+
+Gulp! main contributor is [Stefano Angaran][sangaran]
+Join this list and send you pull request!
+
+[sangaran]: https://github.com/oniric85 "Stefano Angaran's Github"
