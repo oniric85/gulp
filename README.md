@@ -81,7 +81,7 @@ Software is provided as is. You can use it as you wish, just be cool. You can al
 
 ## Developers
 
-Gulp! main contributor is [Stefano Angaran][sangaran]
+Gulp! main contributor is [Stefano Angaran][sangaran].
 Join this list and send you pull request!
 
 [sangaran]: https://github.com/oniric85 "Stefano Angaran's Github"
