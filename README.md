@@ -20,7 +20,14 @@ you are doing! Oh, and it's multithread too, just don't kill your target!
 Bein a PERL script Gulp! requires Perl (of course). I recommend PERL >= 5.8, older
 versions are not supported or tested. As usual there are also some dependencies to fulfill. Here the list of packages you will need. Just grab them from CPAN!
 
-
+```perl
+use HTTP::Request::Common;
+use LWP::UserAgent;
+use POSIX;
+use Options;
+use CGI::Enurl;
+use URI;
+```
 
 
 ## TODO

@@ -10,10 +10,10 @@
 use HTTP::Request::Common;
 use LWP::UserAgent;
 use POSIX (floor);
-use warnings;
 use Options;
 use CGI::Enurl;
 use URI;
+use warnings;
 use strict;
 #use warnings;
 use threads qw(stringify);
